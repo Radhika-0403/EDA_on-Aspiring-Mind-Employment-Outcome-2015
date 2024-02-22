@@ -1,1 +1,3 @@
 # EDA_on-Aspiring-Mind-Employment-Outcome-2015
+
+The study is narrowly focused on individuals with engineering backgrounds. The dataset under examination pertains to the employment outcomes of engineering graduates, wherein Salary, Job Titles, and Job Locations serve as dependent variables. In addition, the dataset encompasses standardized scores from three distinct domains: cognitive skills, technical skills, and personality skills. Demographic features are also incorporated, resulting in a dataset with approximately 40 independent variables and 4000 data points. The independent variables exhibit a combination of continuous and categorical attributes. Notably, each candidate is uniquely identified within the dataset through an assigned identifier.
